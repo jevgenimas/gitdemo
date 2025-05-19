@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3fd6447e-ffb1-4ef4-bddc-58f28cf1225c" name="Changes" comment="Add initial project setup with package.json and index.js&#10;&#10;Set up a basic Node.js project with a package.json file and an index.js file. The package.json includes metadata and a placeholder test script, while index.js logs a simple welcome message." />
     <option name="SHOW_DIALOG" value="false" />
