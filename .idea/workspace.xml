@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fd6447e-ffb1-4ef4-bddc-58f28cf1225c" name="Changes" comment="Add initial project setup with package.json and index.js&#10;&#10;Set up a basic Node.js project with a package.json file and an index.js file. The package.json includes metadata and a placeholder test script, while index.js logs a simple welcome message." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2xK2T2nJ6YJIJm59Ah3ZZdQ5aSV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-WS-251.25410.117" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fd6447e-ffb1-4ef4-bddc-58f28cf1225c" name="Changes" comment="" />
+      <created>1747672448499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747672448499</updated>
+      <workItem from="1747672449552" duration="420000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add initial project setup with package.json and index.js&#10;&#10;Set up a basic Node.js project with a package.json file and an index.js file. The package.json includes metadata and a placeholder test script, while index.js logs a simple welcome message.">
+      <option name="closed" value="true" />
+      <created>1747672861740</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747672861740</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add initial project setup with package.json and index.js&#10;&#10;Set up a basic Node.js project with a package.json file and an index.js file. The package.json includes metadata and a placeholder test script, while index.js logs a simple welcome message." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add initial project setup with package.json and index.js&#10;&#10;Set up a basic Node.js project with a package.json file and an index.js file. The package.json includes metadata and a placeholder test script, while index.js logs a simple welcome message." />
+  </component>
+</project>
