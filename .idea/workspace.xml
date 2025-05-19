@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fd6447e-ffb1-4ef4-bddc-58f28cf1225c" name="Changes" comment="Add initial project setup with package.json and index.js&#10;&#10;Set up a basic Node.js project with a package.json file and an index.js file. The package.json includes metadata and a placeholder test script, while index.js logs a simple welcome message." />
+    <list default="true" id="3fd6447e-ffb1-4ef4-bddc-58f28cf1225c" name="Changes" comment="Set auto-reload type to SELECTIVE in workspace settings&#10;&#10;Updated the `.idea/workspace.xml` file to configure the auto-reload type as &quot;SELECTIVE&quot; under AutoImportSettings. This change optimizes IDE behavior for selective project imports and reloads.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747672448499</updated>
-      <workItem from="1747672449552" duration="420000" />
+      <workItem from="1747672449552" duration="1163000" />
     </task>
     <task id="LOCAL-00001" summary="Add initial project setup with package.json and index.js&#10;&#10;Set up a basic Node.js project with a package.json file and an index.js file. The package.json includes metadata and a placeholder test script, while index.js logs a simple welcome message.">
       <option name="closed" value="true" />
@@ -60,14 +62,42 @@
       <option name="project" value="LOCAL" />
       <updated>1747672861740</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add initial project setup with package.json and index.js&#10;&#10;Set up a basic Node.js project with a package.json file and an index.js file. The package.json includes metadata and a placeholder test script, while index.js logs a simple welcome message.">
+      <option name="closed" value="true" />
+      <created>1747673052294</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747673052294</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Set auto-reload type to SELECTIVE in workspace settings&#10;&#10;Updated the `.idea/workspace.xml` file to configure the auto-reload type as &quot;SELECTIVE&quot; under AutoImportSettings. This change optimizes IDE behavior for selective project imports and reloads.">
+      <option name="closed" value="true" />
+      <created>1747673199161</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747673199161</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add initial project setup with package.json and index.js&#10;&#10;Set up a basic Node.js project with a package.json file and an index.js file. The package.json includes metadata and a placeholder test script, while index.js logs a simple welcome message." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add initial project setup with package.json and index.js&#10;&#10;Set up a basic Node.js project with a package.json file and an index.js file. The package.json includes metadata and a placeholder test script, while index.js logs a simple welcome message." />
+    <MESSAGE value="Set auto-reload type to SELECTIVE in workspace settings&#10;&#10;Updated the `.idea/workspace.xml` file to configure the auto-reload type as &quot;SELECTIVE&quot; under AutoImportSettings. This change optimizes IDE behavior for selective project imports and reloads." />
+    <option name="LAST_COMMIT_MESSAGE" value="Set auto-reload type to SELECTIVE in workspace settings&#10;&#10;Updated the `.idea/workspace.xml` file to configure the auto-reload type as &quot;SELECTIVE&quot; under AutoImportSettings. This change optimizes IDE behavior for selective project imports and reloads." />
   </component>
 </project>
