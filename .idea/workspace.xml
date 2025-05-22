@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fd6447e-ffb1-4ef4-bddc-58f28cf1225c" name="Changes" comment="Set auto-reload type to SELECTIVE in workspace settings">
-      <change afterPath="$PROJECT_DIR$/index.ts" afterDir="false" />
+    <list default="true" id="3fd6447e-ffb1-4ef4-bddc-58f28cf1225c" name="Changes" comment="Add TypeScript file and update workspace settings&#10;&#10;Introduced a new `index.ts` file and updated `.idea/workspace.xml` to include recent template and exclude specific files. These changes enhance project organization and alignment with the IDE's auto-reload and file management features.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,23 +42,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2025.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2025.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -79,7 +77,8 @@
       <workItem from="1747675303711" duration="36000" />
       <workItem from="1747675351982" duration="142000" />
       <workItem from="1747742661683" duration="89000" />
-      <workItem from="1747913048951" duration="954000" />
+      <workItem from="1747913048951" duration="2856000" />
+      <workItem from="1747924919788" duration="2052000" />
     </task>
     <task id="LOCAL-00001" summary="Add initial project setup with package.json and index.js&#10;&#10;Set up a basic Node.js project with a package.json file and an index.js file. The package.json includes metadata and a placeholder test script, while index.js logs a simple welcome message.">
       <option name="closed" value="true" />
@@ -113,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747913477444</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add TypeScript file and update workspace settings&#10;&#10;Introduced a new `index.ts` file and updated `.idea/workspace.xml` to include recent template and exclude specific files. These changes enhance project organization and alignment with the IDE's auto-reload and file management features.">
+      <option name="closed" value="true" />
+      <created>1747914167739</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747914167740</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +147,7 @@
     <MESSAGE value="Set auto-reload type to SELECTIVE in workspace settings&#10;&#10;Updated the `.idea/workspace.xml` file to configure the auto-reload type as &quot;SELECTIVE&quot; under AutoImportSettings. This change optimizes IDE behavior for selective project imports and reloads." />
     <MESSAGE value="Set auto-reload type to SELECTIVE in workspace settings&#10;&#10;Updated `.idea/workspace.xml` to configure the auto-reload type as &quot;SELECTIVE&quot; under AutoImportSettings. This change improves the IDE's efficiency by optimizing behavior for selective project imports and reloads." />
     <MESSAGE value="Set auto-reload type to SELECTIVE in workspace settings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Set auto-reload type to SELECTIVE in workspace settings" />
+    <MESSAGE value="Add TypeScript file and update workspace settings&#10;&#10;Introduced a new `index.ts` file and updated `.idea/workspace.xml` to include recent template and exclude specific files. These changes enhance project organization and alignment with the IDE's auto-reload and file management features." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add TypeScript file and update workspace settings&#10;&#10;Introduced a new `index.ts` file and updated `.idea/workspace.xml` to include recent template and exclude specific files. These changes enhance project organization and alignment with the IDE's auto-reload and file management features." />
   </component>
 </project>
